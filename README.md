@@ -22,13 +22,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/being_expresso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="being_expresso" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aloksingh1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aloksingh1st" height="30" width="40" /></a>
-<a href="https://instagram.com/aloksingh_st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aloksingh_st" height="30" width="40" /></a>
+<a href="https://twitter.com/being_expresso" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="being_expresso" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aloksingh1st" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="aloksingh1st" height="30" width="40" /></a>
+<a href="https://instagram.com/aloksingh_st" target="blank"><img align="center" src="https://static.cdnlogo.com/logos/i/93/instagram.svg" alt="aloksingh_st" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/alok_1st" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alok_1st" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aloksingh1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aloksingh1st" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aloksingh1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aloksingh1st" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/alok1st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alok1st" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/aloksingh1st" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="aloksingh1st" height="30" width="40" /></a>
+
+<a href="https://www.leetcode.com/aloksingh1st" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3629476-3031539.png" alt="aloksingh1st" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/alok1st" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3912/PNG/512/geeksforgeeks_logo_icon_248241.png" alt="alok1st" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
