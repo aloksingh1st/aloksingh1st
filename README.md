@@ -1,146 +1,35 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Alok Singh</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
-
-<img
-  align="right"
-  alt="Coding"
-  width="400"
-  src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"
-/>
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=aloksingh1st&label=Profile%20views&color=0e75b6&style=flat"
-    alt="aloksingh1st"
-  />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=aloksingh1st"
-      alt="aloksingh1st"
-  /></a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/being_expresso" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/being_expresso?logo=twitter&style=for-the-badge"
-      alt="being_expresso"
-  /></a>
-</p>
-
-- 🔭 I’m currently working on **Video Chat App** - 🌱 I’m currently learning
-**Data Structures and Algorithms** - 💬 Ask me about **Mern, Web , dsa** - 📫
-How to reach me **aloksingh1st@gmail.com** - ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/being_expresso" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"
-      alt="being_expresso"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/aloksingh1st" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg"
-      alt="aloksingh1st"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/aloksingh_st" target="blank"
-    ><img
-      align="center"
-      src="https://static.cdnlogo.com/logos/i/93/instagram.svg"
-      alt="aloksingh_st"
-      height="30"
-      width="40"
-  /></a>
-
-  <a href="https://www.codechef.com/users/alok_1st" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-      alt="alok_1st"
-      height="30"
-      width="40"
-  /></a>
-
-  <a href="https://www.hackerrank.com/aloksingh1st" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"
-      alt="aloksingh1st"
-      height="30"
-      width="40"
-  /></a>
-
-  <a href="https://www.leetcode.com/aloksingh1st" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3629476-3031539.png"
-      alt="aloksingh1st"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://auth.geeksforgeeks.org/user/alok1st" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.icon-icons.com/icons2/3912/PNG/512/geeksforgeeks_logo_icon_248241.png"
-      alt="alok1st"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.cdnlogo.com/logos/b/74/bootstrap-5.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.cdnlogo.com/logos/c/36/c.svg"
       alt="c"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.chartjs.org/media/logo-title.svg"
       alt="chartjs"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"
       alt="cplusplus"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.cdnlogo.com/logos/c/18/css.svg"
       alt="css3"
       width="40"
       height="40"
-    />
+    /> -->
   </a>
   <!-- <a href="https://d3js.org/" target="_blank" rel="noreferrer">
     <img
@@ -159,29 +48,29 @@ How to reach me **aloksingh1st@gmail.com** - ⚡ Fun fact **I think I am funny**
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
       alt="heroku"
       width="40"
       height="40"
-    />
+    /> -->
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.cdnlogo.com/logos/h/84/html.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
+<!--   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> -->
+<!--     <img -->
+<!--       src="https://cdn.cdnlogo.com/logos/h/84/html.svg" -->
+<!--       alt="html5" -->
+<!--       width="40" -->
+<!--       height="40" -->
+<!--     /> -->
   </a>
   <!-- <a
     href="https://www.adobe.com/in/products/illustrator.html"
@@ -196,7 +85,7 @@ How to reach me **aloksingh1st@gmail.com** - ⚡ Fun fact **I think I am funny**
     />
   </a>
 -->
-  <a 
+<!--   <a 
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
@@ -214,7 +103,7 @@ How to reach me **aloksingh1st@gmail.com** - ⚡ Fun fact **I think I am funny**
       alt="linux"
       width="40"
       height="40"
-    />
+    /> -->
   </a>
   <!-- <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
     <img
@@ -224,7 +113,7 @@ How to reach me **aloksingh1st@gmail.com** - ⚡ Fun fact **I think I am funny**
       height="40"
     />
   </a> -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.cdnlogo.com/logos/m/25/mongodb.svg"
       alt="mongodb"
@@ -247,7 +136,7 @@ How to reach me **aloksingh1st@gmail.com** - ⚡ Fun fact **I think I am funny**
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
@@ -256,7 +145,7 @@ How to reach me **aloksingh1st@gmail.com** - ⚡ Fun fact **I think I am funny**
       height="40"
     />
   </a> -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
+<!--   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
@@ -303,7 +192,7 @@ How to reach me **aloksingh1st@gmail.com** - ⚡ Fun fact **I think I am funny**
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <!-- <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
