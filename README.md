@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
+<!--[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)-->
 <!--   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.cdnlogo.com/logos/c/36/c.svg"
@@ -39,7 +39,7 @@
       height="40"
     />
   </a> -->
-
+<!--
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT77rd62Bnh454x8VW7vpdSLl6NYxQwi--mH3k0YDAhj1NEnCqm8oTQbMZfngn9LQTCvfY&usqp=CAU"
@@ -48,6 +48,7 @@
       height="40"
     />
   </a>
+  -->
 <!--   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
