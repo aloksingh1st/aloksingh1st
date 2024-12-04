@@ -203,7 +203,7 @@
     />
   </a> -->
 </p>
-
+<!--
 <p>
   <img
     align="left"
@@ -211,6 +211,9 @@
     alt="aloksingh1st"
   />
 </p>
+-->
+
+<!--
 
 <p> 
   &nbsp;<img
@@ -226,4 +229,7 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=aloksingh1st&"
     alt="aloksingh1st"
   />
+
+  -->
 </p>
+
